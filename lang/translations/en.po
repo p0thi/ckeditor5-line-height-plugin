@@ -1,0 +1,14 @@
+# Copyright (c) 2003-2018, CKSource - Frederico Knabben. All rights reserved.
+msgid ""
+msgstr ""
+"Language: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+msgctxt "Tooltip for the line height dropdown."
+msgid "Line Height"
+msgstr "Line Height"
+
+msgctxt "Dropdown option label for the default line height."
+msgid "Default"
+msgstr "Default"
