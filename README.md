@@ -19,6 +19,7 @@ Use it in your application:
 ```js
 import LineHeight from 'ckeditor5-line-height-plugin/src/lineheight';
 ```
+#### ***Some users had prblems with styling. In this case try importing this plugin as your first import.***
 Add it to your editor:
 ```js
 ClassicEditor
