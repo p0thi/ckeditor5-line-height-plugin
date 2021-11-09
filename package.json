@@ -4,9 +4,9 @@
   "description": "Plugin for CKEditor5 to create button to change the line height of the selected block.",
   "main": "src/lineheight.js",
   "dependencies": {
-    "@ckeditor/ckeditor5-core": "^26.0.0",
-    "@ckeditor/ckeditor5-ui": "^26.0.0",
-    "@ckeditor/ckeditor5-utils": "^26.0.0"
+    "@ckeditor/ckeditor5-core": "^29.2.0",
+    "@ckeditor/ckeditor5-ui": "^29.2.0",
+    "@ckeditor/ckeditor5-utils": "^29.2.0"
   },
   "devDependencies": {
     "eslint": "^6.0.1",
